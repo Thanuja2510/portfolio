@@ -12,13 +12,13 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I'm a Software Developer with a strong foundation in building scalable, high-performance applications. Currently, I work at the National Payments Corporation of India (NPCI), contributing to impactful projects like BHIM and real-time data platforms. I specialize in performance optimization, AI-driven enhancements, and distributed architecture.
 
 ---
 
-### 🛠️ Skills & Technologies
+###  Skills & Technologies
 
 **Languages:** Java, C++, Python, C, JavaScript, SQL  
 **Frameworks & Libraries:** Spring Boot, ReactJS, Node.js, Flask, BERT, Spacy  
@@ -27,7 +27,7 @@ I'm a Software Developer with a strong foundation in building scalable, high-per
 **Soft Skills:** Agile Development, Telemetry Analysis, Communication, Teamwork, Time Management
 
 
-### 🚀 Projects
+###  Projects
 
 **Placify-NITJ: Placement Experience Portal**  
 *January 2024 – May 2024*
